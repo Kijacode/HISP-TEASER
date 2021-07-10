@@ -50,6 +50,15 @@ HISP TANZANIA Interview Question on Saturday July 10
 
 
 ```
+
+Tips: 
+- Headers: Describes what is arranged in the rows eg in first row ["EzE8xZ31zfC", "R7TPl8q81Ft", "47.0"] points to [dx,ou,value] - metaData: Presents two details; 
+- Names: Contains readable names to all identifiers in the object, 
+- Dimensions: Describes the grouping of related items. But can be useful when you want to arrange items in rows or columns in the table. 
+- Rows: Contains the actual data we need to present in our table cells. Think of a table cell as a combination of dx and ou where value is the last item in the row array. Eg in first row ["EzE8xZ31zfC", "R7TPl8q81Ft", "47.0"], dx:EzE8xZ31zfC, 
+ou:R7TPl8q81Ft yield to 47.0.
+
+
 ## Tools 
 ```bash
 
