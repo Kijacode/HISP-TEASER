@@ -67,10 +67,10 @@ const TableApp = (props) => {
         }}
       >
         <tr>
-          {RowColumnApp(props.name).map((a) => {
+          {RowColumnApp(props.name).map((value) => {
             return (
               <th>
-                <b>{a}</b>
+                <b>{value}</b>
               </th>
             );
           })}
