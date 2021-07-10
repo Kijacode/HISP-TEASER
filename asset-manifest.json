@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/HISP-TEASER/static/css/main.abd054f1.chunk.css",
+    "main.js": "/HISP-TEASER/static/js/main.37cf60b1.chunk.js",
+    "main.js.map": "/HISP-TEASER/static/js/main.37cf60b1.chunk.js.map",
+    "runtime-main.js": "/HISP-TEASER/static/js/runtime-main.10837e2d.js",
+    "runtime-main.js.map": "/HISP-TEASER/static/js/runtime-main.10837e2d.js.map",
+    "static/css/2.ba8a8a05.chunk.css": "/HISP-TEASER/static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.6616c2f4.chunk.js": "/HISP-TEASER/static/js/2.6616c2f4.chunk.js",
+    "static/js/2.6616c2f4.chunk.js.map": "/HISP-TEASER/static/js/2.6616c2f4.chunk.js.map",
+    "static/js/3.1b5b0aea.chunk.js": "/HISP-TEASER/static/js/3.1b5b0aea.chunk.js",
+    "static/js/3.1b5b0aea.chunk.js.map": "/HISP-TEASER/static/js/3.1b5b0aea.chunk.js.map",
+    "index.html": "/HISP-TEASER/index.html",
+    "static/css/2.ba8a8a05.chunk.css.map": "/HISP-TEASER/static/css/2.ba8a8a05.chunk.css.map",
+    "static/css/main.abd054f1.chunk.css.map": "/HISP-TEASER/static/css/main.abd054f1.chunk.css.map",
+    "static/js/2.6616c2f4.chunk.js.LICENSE.txt": "/HISP-TEASER/static/js/2.6616c2f4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/HISP-TEASER/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10837e2d.js",
+    "static/css/2.ba8a8a05.chunk.css",
+    "static/js/2.6616c2f4.chunk.js",
+    "static/css/main.abd054f1.chunk.css",
+    "static/js/main.37cf60b1.chunk.js"
+  ]
+}
